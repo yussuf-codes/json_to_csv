@@ -1,0 +1,44 @@
+[
+    {
+        "Id": 1,
+        "name": "Milk",
+        "unit": "Liter",
+        "quantity": 30,
+        "price": 25
+    },
+    {
+        "Id": 2,
+        "name": "Coffee",
+        "unit": "Kilogram",
+        "quantity": 25,
+        "price": 350
+    },
+    {
+        "Id": 3,
+        "name": "Peanut Butter",
+        "unit": "Kilogram",
+        "quantity": 25,
+        "price": 250
+    },
+    {
+        "Id": 4,
+        "name": "Eggs",
+        "unit": "Package",
+        "quantity": 60,
+        "price": 40
+    },
+    {
+        "Id": 5,
+        "name": "Cheese",
+        "unit": "Kilogram",
+        "quantity": 5,
+        "price": 180
+    },
+    {
+        "Id": 6,
+        "name": "Pepsi",
+        "unit": "Liter",
+        "quantity": 120,
+        "price": 15
+    }
+]
